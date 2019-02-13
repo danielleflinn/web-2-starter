@@ -5,8 +5,20 @@ body {
   background: gray;
 }
 
-* {
+/* * {
   outline: 1px dotted black;
-}
+} */
 
 /* Your Awesome Scripts */
+body {
+  width: 80%;
+  margin: 10% auto;
+}
+
+main {
+  border: 5px aqua solid;
+}
+
+h1 {
+   color: aqua;
+}
